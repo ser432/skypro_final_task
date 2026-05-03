@@ -1,21 +1,33 @@
 При выполнении работы найдены и исправлены следующие ошибки:
 
 Файл index.html.
-1. Лишний пробел в подвале страницы. Сейчас "202 4", а должно быть "2024".
-2. ...
-3. ...
-4. ...
+1. Typo in title: "Основныые Интрументы" → "Основные Инструменты"
+2. Typo in subtitle: "Тетирование" → "Тестирование"
+3. Typo in link: "Windos" → "Windows"
+4. Extra closing </p> tag in subtitle block
+5. Typo in footer year: "202 4" → "2024"
 
 Файл cmd.html.
-1. ...
-2. ...
-3. ...
+1. Missing link to main page in cmd.html
+2. Wrong description for DIR command
+3. Wrong description for CD command
+4. Wrong command name: MAKEDIR → MKDIR
+5. Wrong description for DATE command
+6. Wrong description for TIME command
+7. Typo in footer year: "202 4" → "2024"
 
 Файл mac.html.
-1. ...
-2. ...
+1. Typo in title: "MaOS" → "MacOS"
+2. Missing link to main page in mac.html
+3. Wrong description for mv command
+4. Typo in word: "расфшифровывается" → "расшифровывается"
+5. Wrong description for mkdir command
+6. Wrong button text: "Вернуться на главную" → "На главную"
 
 Файл git.html
-1. ...
-2. ...
-3. ...
+1. Missing link to main page in git.html
+2. Wrong commands listed in git.html (terminal commands instead of Git commands)
+3. Typo in footer link text: "Вернуся" → "На главную"
+4. Wrong footer link: "mac.html" → "../index.html"
+5. Typo in footer year: "202 4" → "2024"
+6. Missing animation class in card block
